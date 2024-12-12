@@ -39,7 +39,7 @@
 <lb/>le ſanc mauuais•et oſte melancolie• <hi rend="red">ℾ</hi>Ceſte terre de iob mar
 <lb/>chiſt au roẏaume de caldee et eſt mlṫ grant paẏs•et eſt le
 <lb/>langaige qui eſt plus que en nul autre paẏs entour la mer•
-<lb/> <hi rend="blue">ℾ</hi>Qui veult la aler on paſſe par la tour de babilone dont ie
+<lb/> <hi rend="blue">ℾ</hi>Qui veult la aler on paſſe par la tour de <placeName type="city">babilone</placeName> dont ie
 <lb/>vous aẏ autreſfois parle•ou les langaiges furent premier'
 <lb/>changiez •et eſt a•<num>IIII</num>•iournees du roẏaume de caldee p̱deca•
 <lb/> <hi rend="red">ℾ</hi>On roẏaume de caldee ſont les hōmes beaux et vont mlṫ
@@ -69,7 +69,7 @@
 <lb/><placeName>sẏchem</placeName>.  <hi rend="blue">ℾ</hi>Et ce fut <persName>loth</persName> qui fut ſauuez qñt <placeName>ſodome</placeName> et
 <lb/><placeName>gomorre</placeName> et les autres furent arſes et fondues en labiſ
 <lb/>me la ou la mer morte eſt•ſi cōme ie voꝰ aẏ autreſfois dit.
-<lb/><hi rend="dropcap4 red">P</hi>uis oultre <placeName>caldee</placeName> eſt <placeName>amazonie</placeName>•ceſt la terre de fēmenie
+<lb/><hi rend="dropcap4 red">P</hi>uis oultre <placeName>caldee</placeName> eſt <placeName>amazonie</placeName>•ceſt la <placeName type="region">terre de fēmenie</placeName>
 <lb/>Ceſt vn roẏaume ou il na que fēmes•car les hōmes
 <lb/>nẏ pourroient viure en ce paẏs ſi c̅o̅me aucuns dient.mais
 <lb/>pour ce neſt il mie ainſi•car elles ne veulent que les hōmes
@@ -247,16 +247,16 @@ gent gaaignier•et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>fois que bien bons dẏamans perdent leur uertu pour la
 <lb/>contenance de ceuls qui les portent•et a dont conuient la
 <lb/>pierre faire recouurer leur uertu. <head type="rubrique 1/2"><hi rend="red">De la nature des gens</hi></head>
-<lb/><hi rend="dropcap7 blue">I</hi>tem en <placeName>ẏnde</placeName> ẏ a mains diuers paẏs <head="rubrique 2/2"><hi rend="red">de celle terre</hi></head>
+    <lb/><hi rend="dropcap7 blue">I</hi>tem en <placeName>ẏnde</placeName> ẏ a mains diuers paẏs <join desc="belongs to previous line"><head type="rubrique 2/2"><hi rend="red">de celle terre</hi></head></join>
 <lb/>et maintes diuerſes entrees• et lappelle on <placeName>ẏnde</placeName> pour .<num>I</num>.
-    <lb/>flueue qui queurt par mẏ le paẏs qui a anom <geogName>ẏnde</geogName>geogName>•En
+    <lb/>flueue qui queurt par mẏ le paẏs qui a anom <geogName>ẏnde</geogName>•En
 <lb/>ce flueue ſont anguilles de•<num>XXX</num>•pies delonc et de plus•           <additions>.  nõ  .</additions>
 <lb/>Les gens qui habitent entour celle riuiere ſont tous de ꝟde
 <lb/>couleur et iaune ſico̅me il euſſent la iauniſſe•<hi rend="red">ℾ</hi> En <placeName>ẏnde</placeName>
 <lb/>et enuiron ẏnde ẏ a plus de•<num>V</num>•mile ẏlles bonnes et grandes
 <lb/>ſenz celle qui ſont inhabitables•et ſenz autres petites pluſ̷s
 <lb/>dont on ne puet faire mention• <hi rend="blue">ℾ</hi>Enchaſcun ẏlle ẏ a gñt
-<lb/>foiſon de cites et de villes et de genz ſenz nombre•car <persName>ẏndois</persName>
+    <lb/>foiſon de cites et de villes et de genz ſenz nombre•car <tag type="nationality">ẏndois</tag>
 <lb/>ſont de telle maniere quil nẏſſent point de leur paẏs et põ ce
 <lb/>ẏ a grant multitude de gens•car il ne ſont point mouua
 <lb/>bles pour ce quil ſont au premier climat qui eſt de <tag type="celestial body">ſaturne</tag>
@@ -378,7 +378,7 @@ gent gaaignier•et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>pourroient prendre•<hi rend="red">ℾ</hi> En celle ẏlle nenterre ou nul hōme
 <lb/>mort• car la chaleur eſt ſigrande que en pou de temps eſt le
 <lb/>corps tout ꝯ̲ſūmez iuſques as os•<head type="rubrique 1/2"><hi rend="red">Du lieu ou le poivre croiſt</hi></head>
-<lb/><hi rend="dropcap2 blue">D</hi>E la va on vers <placeName>ẏnde la maiour</placeName> <head type="rubrique 2/2"><hi rend="red">et en quel maniere•</hi></head>
+    <lb/><hi rend="dropcap2 blue">D</hi>E la va on vers <placeName>ẏnde la maiour</placeName> <join desc="belongs to previous line"><head type="rubrique 2/2"><hi rend="red">et en quel maniere•</hi></head></join>
 <lb/>a vne cite qui a nom <placeName>garbe</placeName> qui eſt mlṫ belle ⁊ mlṫ bonne⁊
 <lb/>ẏ demeurent mlṫ de bons <tag type="religious affiliation">creſtiens</tag>•et de bonne foẏ•et ſi a mlṫ de
 <lb/>religieux eſpecialment de <tag type="religious affiliation">mendians</tag>•<hi rend="red">ℾ</hi> Puis va on par mer
@@ -475,7 +475,7 @@ gent gaaignier•et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>rier autre fois ſenz blaſme• <hi rend="blue">ℾ</hi>Item en ce paẏs croiſſent bons
 <lb/>vins dont les hōmes ne boiuent point.mais les fēmes boiuent
 <lb/>bien vin. <head type="rubrique 1/2"><hi rend="red">Du bras ſaint thomas et des ẏdoles qui ſont en ſō</hi></head>
-<lb/><hi rend="dropcap2 blue">D</hi>E ce paẏs va on en paſſant par pluſieurs marches <head="rubrique 2/2"><hi rend="red">eglẏſe</hi></head>•
+    <lb/><hi rend="dropcap2 blue">D</hi>E ce paẏs va on en paſſant par pluſieurs marches <join desc="belongs to previous line"><head type="rubrique 2/2"><hi rend="red">eglẏſe</hi></head></join>•
 <lb/>vers vn paẏs a•<num>X</num>• iournees loing que on appelle <placeName>Malbaron</placeName>
 <lb/>et ẏ a vn mlṫ grant roẏaume et mlṫ de belles cites ⁊ de belles villes•
 <lb/><hi rend="red">ℾ</hi> En ce roẏaume giſt le corps <persName>ſaint thomas</persName> lapoſtre en char et
@@ -630,7 +630,7 @@ gent gaaignier•et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>et gens qui vouſiſſent aler et cerchier le monde on pourroit
 <lb/>aler a nauie tout entour le monde• et deſſure ⁊ deſſoubz•la
 <lb/>quelle choſe ie preuue ſelon ce que ie aý eſſaie•car ie aẏ eſte par
-<lb/>les parties de <placeName>braibant</placeName> et par la ſigne de laſtrolabe•ie treuue
+<lb/>les parties de <placeName type="region">braibant</placeName> et par la ſigne de laſtrolabe•ie treuue
 <lb/>que la <tag type="celestial body">treſmonta<unclear reason="correction">in</unclear>e eſtoille</tag> eſt•<num>LIII</num>•degres de haut•Et en <placeName>ale
 <lb/>maigne</placeName> vers <placeName>rome</placeName> elle a•<num>LVIII</num>•Et plus auant vers les p̱ties
 <lb/>de ſeptentrion elle a•<num>LXII</num>•degres de haut et aucuns minus auec•
