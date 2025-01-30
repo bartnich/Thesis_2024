@@ -28,7 +28,7 @@
 <lb/><placeName type="city">cornaa</placeName>· on entre en le <placeName type="region">tr̾e de <persName>Job</persName></placeName>· ſe ẏ a biau pais ⁊
 <lb/>grant habū  danche de tous biens·⁊ apelle on le terre
 <lb/><placeName type="region">Sikeſe</placeName>· Et  en celle tr̾e eſt li cites de <placeName type="city">cheman</placeName>·<persName>Job</persName> fu
-<lb/>paiens⁊fu  fiulz· <persName>aredegoſra</persName>·⁊ tenoit celle tr̾e ꝯme p̍n</pb>
+<lb/>paiens⁊fu  fiulz· arede<persName>goſra</persName>·⁊ tenoit celle tr̾e ꝯme p̍n</pb>
 <pb n="f.52r">
 <lb/>ches dou pais· Et eſtoit ſi riches q̄ il ne ſauoit le c̅etiſme
 <lb/>p̲tie chou q̍l auoit· Et c͡obien q̍l fuſt paiens·il ſieruoit
@@ -258,7 +258,7 @@
 <lb/>vaillans ⁊ de mendre vertut ·
 <lb/><hi rend="dropcap5 red">I</hi>tem en <placeName type="region">Indee</placeName> ia mains diuers pais·⁊ mainte diu̾ſes
 <lb/>contrees · Et lapielons <placeName type="region">Indee</placeName> pour·<num>I</num>·flun qui keurt p̱mi
-<lb/>le pais qui a anon <geogName>Inde</geogName> ~ Et celle flueue on trœue an̤
+<lb/>le pais qui a anon <geogName type="body of water">Inde</geogName> ~ Et celle flueue on trœue an̤
 <lb/>guilles de plus de·<num>XXX</num>· piēs de lonc· les gens q̾ habitent
 <lb/>
 <lb/></pb>
@@ -438,7 +438,7 @@
 <lb/>del oudour · a dont vont il vendengier tout ſegurement
 <lb/>car il nȏt garde q̄ nulle vermine ạpche vers y̑aus ·
 <lb/><hi rend="dropcap6 blue">I</hi>Tem vers le chief de cheſte forieſt eſt la cites·<placeName type="city">polombe</placeName>·Et
-<lb/>p̲ deſeure le citet ẏa vne grande m͞otȃigne q̾ a anon · <geogName>polō
+<lb/>p̲ deſeure le citet ẏa vne grande m͞otȃigne q̾ a anon · <geogName type="mountain">polō
 <lb/>be</geogName>· Et p̲ celle mōtaīgne prent li chites ſon non · ⁊ au piet
 <lb/>de celle montȇigne· ẏa vne fontaine q̾a oudour et ſauour
 <lb/>de toutes‶eſpiſſes·̀manieres ⁊ a chaſcune heure elle cange
