@@ -1,3 +1,27 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Le Livre des Merveilles</title>
+<respStmt>
+<resp>transcrit par</resp>
+<name>Nicholas Bartlett</name>
+</respStmt> 
+</titleStmt>
+<publicationStmt>
+<availability>
+<p>This is an open-access work licensed under a Creative Commons Attribution 4.0 International license.</p>
+</availability>
+<distributor></distributor>
+</publicationStmt>
+<sourceDesc>
+<bibl>Paris, BnF naf 10723 (P14)</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div>
 <pb n="f. 48r", place="middle">
 <lb/><hi rend="dropcap2 red">E</hi>t puis au dep̲tir decelle cite  de <placeName type="city">cornaa</placeName> on entre <add place="right">n̑ t̑r͞a Job</add>
 <lb/>enla <placeName type="region">t̑re de <persName>Job</persName></placeName> Se ya beau pais et yagrant

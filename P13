@@ -68,7 +68,7 @@
 <lb/>Et demoura en la terre de <placeName type="region">chanaam</placeName> en vn lieu qui a a nō
 <lb/><placeName type="region">sẏchem</placeName>.  <hi rend="blue">ℾ</hi>Et ce fut <persName>loth</persName> qui fut ſauuez qñt <placeName type="region">ſodome</placeName> et
 <lb/><placeName type="region">gomorre</placeName> et les autres furent arſes et fondues en labiſ
-<lb/>me la ou la mer morte eſt•ſi cōme ie voꝰ aẏ autreſfois dit.
+    <lb/>me la ou <geogName type="body of water">la mer morte</geogName> eſt•ſi cōme <persPronouns value="P1">ie</persPronouns> <persPronouns value="P5 object">voꝰ</persPronouns> aẏ autreſfois dit.
 <lb/><hi rend="dropcap4 red">P</hi>uis oultre <placeName type="region">caldee</placeName> eſt <placeName type="region">amazonie</placeName>•ceſt la <placeName type="region">terre de fēmenie</placeName>
 <lb/>Ceſt vn roẏaume ou il na que fēmes•car les hōmes
 <lb/>nẏ pourroient viure en ce paẏs ſi c̅o̅me aucuns dient.mais
@@ -484,7 +484,7 @@ gent gaaignier•et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>corps deluẏ en <placeName type="region">meſopotame</placeName> en la cite de <placeName type="city">ediſſe</placeName>•et puis fut il la
 <lb/>raporte arriere•et les bras ⁊ les mains quil bouta es plaies <persName>nr̅e
 <lb/>ſeigneur</persName> qñt <persName>nr̅es</persName> ſapparut alẏ apres ſa reſurreccion et li diſt•
-<lb/><foreign type="latin"><u color="red">Noli eſſe incredulus ſed fidelis</u></foreign>• Et giſt encore la main de luẏ
+    <lb/><foreign type="latin"><hi rend="underline red">Noli eſſe incredulus ſed fidelis</hi></foreign>• Et giſt encore la main de luẏ
 <lb/>au dehors du vaiſſel. et par celle main pour leur iugement ou
 <lb/>paẏs eſſaient qui a tort ou droit• Car quant il a diſcencion en
 <lb/>tre deux parties et chaſcun tient quil ait droit il mectent•la
@@ -597,8 +597,8 @@ gent gaaignier•et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>ains ſont toutes les fēmes du paẏs cōmunes et ne refuſent
 <lb/>nulluẏ. Et dient quelles pecheroient ſe elles refuſoient nul
 <lb/>hōme•et que dieu le ꝯ̲manda ainſi a <persName>adam</persName> et a ceuls qui de
-<lb/>lui deſcendroient la ou il diſt• <foreign type="latin"><u color="red">Creſcite et multiplicamini et
-<lb/>replete terram</u></foreign>. <hi rend="red">ℾ</hi>En ce paẏs nul ne peut dire ceſt ma fēme
+<lb/>lui deſcendroient la ou il diſt• <foreign type="latin"><hi rend="underline red">Creſcite et multiplicamini et
+    <lb/>replete terram</hi></foreign>. <hi rend="red">ℾ</hi>En ce paẏs nul ne peut dire ceſt ma fēme
 <lb/>ne nulle fēme ne peut dire cil eſt mon baron•<hi rend="blue">ℾ</hi> Et qñt elles
 <lb/>enfantent elles le donnent aqui quelle veulent qui ait eu
 <lb/>compaignie a elles• Et auſſi eſt la terre toute cōmune• Car
@@ -684,14 +684,14 @@ gent gaaignier•et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>on monte touſiours• Car nr̅e terre eſt en baſſe parties de la
     <lb/>terre vers occident•Et la terre <persName>preſtre iehan</persName> eſt en la baſſe ptie
 <lb/>vers orient•et ont la le iour quant nous auons la nuit•Et
-<lb/>auſſi au contraire il ont la nuit qñt nous auons <u type="dotted">la nuit•</u> <addition hand="other">le jour</addition>
+    <lb/>auſſi au contraire il ont la nuit qñt nous auons <hi rend="underline" type="dotted">la nuit•</hi> <addition hand="other">le jour</addition>
 <lb/>Car la terre et la mer ſont de ronde fourme• ſi cōme ie vouz
 <lb/>aẏ deuant dit• Et ce q̄ on monte a vn coſte on auale a
 <lb/>lautre• ℾ Or auez vous oẏ dire par deuant que <placeName type="city">iheruſalē</placeName>
 <lb/>eſt en milieu du monde•et ce ẏ pert par vne lance fichiee
 <lb/>en terre ſur leure de midẏ qui ne fait point dombre en nul
 <lb/>• et que ce ſoit en mẏlieu de la terre•<persName>dauid</persName> le teſmoigne
-<lb/>la ou il diſt• <foreign type="latin"><u color="red">Et operatus eſt ſalutem in medio terre ℸc̑•</u></foreign>
+    <lb/>la ou il diſt• <foreign type="latin"><hi rend="underline red">Et operatus eſt ſalutem in medio terre ℸc̑•.</hi></foreign>
 <lb/>Donques ceulz qui partent de ces parties pour aler vers <placeName type="city">ihe
 <lb/>reſalem</placeName>•autant de iournees q̄ il mectent de monter iuſqs̅
 <lb/>ala•en autant de iournees peut il aler de <placeName type="city">ihrlm̀</placeName> iuſques en
@@ -726,8 +726,8 @@ gent gaaignier•et ſe maintiennet̄ mlt̄ viguereuſement.
     <lb/>la terre iuſques au ciel•par plus grande raiſon•la terre ⁊ lamer
     <lb/>qui ſont ſi grandes et ſi peſans deuroient cheoir iuſques au fir
     <lb/>mament•Mais ce ne pourroit eſtre•car ce ne ſeroit mie cheoir
-    <lb/>mais monter• Et pour ce diſt <persName>nr̅eſ</persName>• <foreign type="latin"><u color="red">Ne timeas me cui reſpōdi•
-        <lb/>terram in nichilo</u></foreign>• <hi rend="red">ℾ</hi>Et combien que ce ſoit choſe poſſible que
+    <lb/>mais monter• Et pour ce diſt <persName>nr̅eſ</persName>• <foreign type="latin"><hi rend="underline red">Ne timeas me cui reſpōdi•
+    <lb/>terram in nichilo</hi></foreign>• <hi rend="red">ℾ</hi>Et combien que ce ſoit choſe poſſible que
     <lb/>von pourroit auironner ainſi tout le monde•Neentmoins de
     <lb/>mil fois lune on nadreceroit droite voie de retourner vers ſon
     <lb/>paẏs• Car par lagrandeur de la terre ⁊ de lamer on pourroit
