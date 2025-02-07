@@ -33,7 +33,7 @@
 <lb/>deage <num>LXXVIII</num> • anz • Et ap͡s qñt <persName>noſt Sirez</persName> euſt veut ſa paſſien ſce quil
 <lb/>prendoit v͞n engret chou q̅ <persName>noſt Snf</persName> li faiſoit Il le Remiſt aſa poiſſa͞ce
 <lb/>et en ſa Riquece ⁊ en ſa hauteche de Reſief Et puiz Il fu Rois de <placeName type="region">y̑drenea</placeName>
-<lb/>apz͞ • le Roy̑ <persName>eham</persName> • Et qn̄t <persName>Job</persName> fu Roy͑s Il fu appiellez <persName>Joab</persName> ⁊ en ce Roy̑alme 
+<lb/>apz͞ • le Roy̑ <persName>eham</persName> • Et qn̄t <persName>Job</persName> fu Roy͑s Il fu appiellez <persName>Joab</persName> ⁊ en ce Roy̑alme
 <lb/>Il veſqu͡i <num>C• ⁊ LXX</num>• anz ⁊ euſſi auoit Il deage qñt Il morut •<num>II•<character class="ld">C</character>⁊ XLVIII</num>•
 <lb/>anz  Item en celle tiere <persName>Job</persName> na deffaubte de nulle coſe necceſſaire a
 <lb/>ho͞m͞e • Et la y̑|a montaignez leur on troeue gñt fuiſſon de manne pluz
@@ -259,7 +259,7 @@
 <lb/>fem͞ez point de honte dez hom͞ez mais giſent tout priueement avoec
 <lb/>tant q͞• li calleur eſt abaiſſie • Et puet on la veoir maintez laidez
 <lb/>figurez aſſambleez eſpetiaulment priez des boniez villez.⁊ ſaciez 
-<lb/>q̅ aornez ſont lez nefs toutſ de boz ſanz Rienz defier pour lez
+    <lb/>q̅ a<placeName type="city">ornez</placeName> ſont lez nefs toutſ de boz ſanz Rienz defier pour lez
 <lb/>Rochez day̑emant dont Il atant en le mer la entourz q͞• ceſt mier
 <lb/>uellez ⁊ ſe vne nef paſſoit p̲ cez marchez v Il enlviſt clauz v vendez
 <lb/>defier tantoſt ſaroient periez Car li aimanz de ſe nature trait
@@ -342,7 +342,7 @@
 <lb/>tamps li Cars eſt toute conſumee Juſquez az os ⁊ de la va on en <placeName type="region">Inde
 <lb/>la maiour</placeName> avne Citt<sup>ᴐ</sup> qui a anon <placeName type="city">zarbe</placeName> qui eſt moult vielle ⁊ moult
 <lb/>boine et y̑demeurſ moult de <tag type="religious affiliation">creſtijens</tag> de boine foy ⁊ ya moult de
-<lb/>Regionz Eſpetiaulment de mendianz •Item puis va on p̲ mer en le
+    <lb/>Regionz Eſpetiaulment de <tag type="religious affiliation">mendianz</tag> •Item puis va on p̲ mer en le
 <lb/>tiere de <placeName type="region">lombe</placeName> ⁊ en celle tiere croiſt li poiurez en vne forieſt qui
 <lb/>a anon <geogName type="forest">combar</geogName>  ⁊ ne croiſt mille p̲t ailleurz fors q͞• la entout le 
 <lb/>monde fors q͞ en celle forieſt qui dure bien•<num>XVIII</num>• Journ͞ • de lonc
