@@ -32,7 +32,7 @@
 <pb n="f.52r">
 <lb/>ches dou pais· Et eſtoit ſi riches q̄ il ne ſauoit le c̅etiſme
 <lb/>p̲tie chou q̍l auoit· Et c͡obien q̍l fuſt paiens·il ſieruoit
-<lb/>bien nr̅e ſingneur ſelonc ſa loỷ· ⁊ <persName>nr̅e ſires</persName> prēdoit bie̅
+    <lb/>bien <persName>nr̅e ſingneur</persName> ſelonc ſa loỷ· ⁊ <persName>nr̅e ſires</persName> prēdoit bie̅
 <lb/>engre ſou ſieruiche· Et qn̈͞t il cheit en pourete il auoit
 <lb/>de eage ·<num>LXXVIII</num>·ans ⁊ apries qn̈͞t nr̅e ſires eut veut ſa
 <lb/>paſſienche· q̍ eſtoit ſi grande· il ne remiſt a ſe richeſſe ⁊
@@ -45,7 +45,7 @@
 <lb/>aſſes ⁊ milleur q̄ on ne fait autre part· ℾManne eſt
 <lb/>apellee pain dangele·⁊ eſt vne choſe blanche ml̕t douche
 <lb/>⁊ ml̕t deliteuſe·⁊ eſt aſſes plus douche q̄ miel· ne q̄ chucre
-<lb/>Et vient de le rouſee dou chiel · ⁊ chiet sur les herbes de ce
+<lb/>Et vient de le rouſee dou chiel · ⁊ chiet ſur les herbes de ce
 <lb/>li pais.⁊ ſe coagule ⁊ deuient blans ⁊ doulz· On le met en
 <lb/>medechines p ̃les Riches ho̅mes pour laſkier le uentre ⁊
 <lb/>pour eſpurgier maluais ſanc car il purge la maluais
@@ -77,7 +77,7 @@
 <lb/>ℾChis <persName>minus</persName> fiſt le citet de <placeName type="city">niuie</placeName>. le quelle <persName>noe</persName> auoit̅
 <lb/>cōmenchiē a faire · ⁊ pour chou que chis <persName>nimus</persName> lauoit
 <lb/>p̲faite il la pella de ſon no̅· <placeName type="city">niuiie</placeName>·La giſt <persName>thobies</persName> li
-<lb/>p̲phetes· de cui ſainte eſcripture en parolle·ℾDe celle 
+    <lb/><sub>c</sub>pphetes· de cui ſainte eſcripture en parolle·ℾDe celle 
 <lb/>citet de <placeName type="city">hur</placeName> p̲ le co̅mandeme̅t de dieu · ſen p̲ti <persName>abrahā</persName>·
 <lb/>apries le mort ſon pere· Et en mena ſarraẏ ſe fēme·
 <lb/>⁊ loth le fil ſen frere auoec lui pour chou que il nauoit
@@ -86,7 +86,7 @@
 <lb/>ues qn̈t ſodome ⁊ gomore·⁊ les autres chites fure̅t arſe<sup>s</sup>
 <lb/>⁊ fondues en abiſme lau ou <geogName type="body of water">li mers morte</geogName> eſt ſi co̅me
 <lb/><persPronouns value="P1">ie</persPronouns> <persPronouns value="P5 object">voꝯ</persPronouns> aẏ autre fois dit·ℾEn celle t̾re de <placeName type="region">caldee</placeName> il ont lor
-<lb/>ppre langaige·⁊ lor ppres lettres telles q̍ chi ap̍es ſē ſieve̅t
+    <lb/><sub>c</sub>ppre langaige·⁊ lor <sub>c</sub>ppres lettres telles q̍ chi ap̍es ſē ſieve̅t
 <lb/>
 <lb/>
 <lb/>
@@ -186,9 +186,9 @@
 <lb/>grant · Et en ẏa bien de le groſſeche dūne feue·Et le plus
 <lb/>groſſe q̾ ipuiſt ieſtre ſelonc nature eſt auſſi groſſe c͞ome vne
 <lb/>nois gaille· Et toutes ſont a quarrures ⁊ a pointes de leur
-<lb/>ppres natures ſans nul afaiteme̅t demain doume·⁊ les a
+<lb/><sub>c</sub>ppres natures ſans nul afaiteme̅t demain doume·⁊ les a
 <lb/>pielon en <placeName type="region">Inde</placeName> <foreign>hameſet</foreign>·il croiſſent en ſi es mōta͡ignes ⁊
-<lb/>es roches ou il ẏa voie de miniere dor ⁊ croiſſent en sȃ
+<lb/>es roches ou il ẏa voie de miniere dor ⁊ croiſſent en ſȃ
 <lb/>ble malles ⁊ fumelles·⁊ ſe nourriſſent de le rouſee dou
 <lb/>ciel · ⁊ conchoiuent ⁊ en genrent ⁊ font des petis deles
 <lb/>chiaus qui monteplient · Et croiſſent tous les ans· <persPronouns value-="P1">Je</persPronouns>
@@ -208,7 +208,7 @@
 <lb/>nient mains p̃ chou q̄ chaſcu̅s ne le ſet mies <persPronouns value="P1">ie</persPronouns> les meterai
 <lb/>ichi ſelonc chou que chil dou tremer le dient ⁊ la fijent.
 <lb/>ℾDes quelz toute ſcienche ⁊ toute philoſophie eſt venue·
-<lb/>ℾLi dẏamans doune a chelui q̾ le porte hardieche·⁊ p̲eche ⁊
+    <lb/>ℾLi dẏamans doune a chelui q̾ le porte hardieche·⁊ <sub>c</sub>peche ⁊
 <lb/>garde les m͞ebres dou corps·entiers·⁊ doune victore des ane
 <lb/>mis · en plait·en guerre ſe li cauſe eſt iuſte·⁊ tient le porta͞t
 <lb/>en ſon boin ſens·⁊ le garde de tenchon ⁊ de rihotes ⁊ de maul
@@ -286,7 +286,7 @@
 <lb/>a lemer occeane·⁊ puis trœue on vne iſle q̾a anon <placeName type="region">Orines</placeName>
 <lb/>ou li marchant de <placeName type="city">veniſſe</placeName> de <placeName type="city">Janeve</placeName> ⁊ dautres marches· ẏ
 <lb/>vont ſouue͞t pour marchandiſes akater · Mais il fait ſi gn̈͞t
-<lb/>chaut en cele iſle·⁊ pour le grant deſtreche de chaleur li p̲pē
+    <lb/>chaut en cele iſle·⁊ pour le grant deſtreche de chaleur li <sub>c</sub>ppē
 <lb/>dicle del hōme ⁊ teſticuli iſſent hors dou corps pendans
 <lb/>iusq͞s en mi le Jambe p̃ le grande diſſolution cou corps·
 <lb/>Mais li gens dou pais ⁊ chil q̾ ſeuent le nature ſe font 
@@ -345,7 +345,7 @@
 <lb/>ℾEt en ſi dient il en lor raiſon des autres planetes ⁊ de
 <lb/>feu auſſi pour chou quil eſt pourfitables . Et des ẏdolles
 <lb/>il vient que li buef eſt li plus ſainte bieſte q̍ ſoit en t̾re
-<lb/>⁊ plus p̲fitable que neſt nulle autre· car il fait des biens
+    <lb/>⁊ plus <sub>c</sub>pfitable que neſt nulle autre· car il fait des biens
 <lb/>aſſes.⁊ ſi ne fait nul mal ·⁊ ſeue͞t bien que che ne puet
 <lb/>ieſtre ſans eſpecial graſce de dieu . Et pour chou font il
 <lb/>leur dieu de buef le moitiet·⁊ lautre moitiet de hōme
@@ -499,7 +499,7 @@
 <lb/>le corps de lui·en <placeName type="region">meſopotanie</placeName> en le chite de <placeName type="city">ediſſe</placeName>· et
 <lb/>puis fut il la ariere reportes · Et le brach ⁊ le main dont
 <lb/>il bouta ſes dois es plaies de nr̅e ſigneur qn̈͞t il ſa parut
-<lb/>alui apries ſe reſurrexion ⁊ li diſt ·ℾ<foreign language="latin">Noli eſſe <del rend="erasure"> in  </del>cre
+<lb/>alui apries ſe reſurrexion ⁊ li diſt ·ℾ<foreign language="Latin">Noli eſſe <del rend="erasure"> in  </del>cre
 <lb/>dulus ſed fidelis</foreign>· Et giſt en core audehors dou vaiſſial·
 <lb/>Et p̲ celle main il font leur Jugemēns en ce pais ⁊ ſe
 <lb/>uent quia tort ou droit · Car quant il a diſcention entre
@@ -595,7 +595,7 @@
 <lb/>gardes diex que vr̄e loial amit ⁊ ſergans a fait p̃ vous</pb>
 <pb n="f.60v">
 <lb/>il a relenq͛t fȇmes ⁊ enfans rikeches·⁊ a tous les biens
-<lb/>de che monde · ⁊ ſe ppre vie pour lamour de voꝰ· Et vous
+<lb/>de che monde · ⁊ ſe <sub>c</sub>ppre vie pour lamour de voꝰ· Et vous
 <lb/>a fait ſacrefiſſe de la char ⁊ de ſont ſang ·ſi que vœillies loi
 <lb/>poſer deles voꝰ entre vos plus ames · en le gloire de p̲adis 
 <lb/>car il la bien deſſieruit · Et puis il font ·<num>I</num>·grant feu et
@@ -619,7 +619,7 @@
 <lb/>eſpouſees ains ſont toutes les fēmes dou pais ꝯmunes
 <lb/>Et ne refuſent nullui ·⁊ dient q̄ elles pecheroient ſe elles
 <lb/>refuſoient les hȏmes · et q̄ diex le ꝯmanda enſi a <persName>adam</persName> ·
-<lb/>Et chiaus q͛ deſcenderoient delui lau ou il diſt  ·ℾ<hi rend="underline red"><foreign language="latin">Creſa
+<lb/>Et chiaus q͛ deſcenderoient delui lau ou il diſt  ·ℾ<hi rend="underline red"><foreign language="Latin">Creſa
 <lb/>te et multiplicamini et replete terram</foreign></hi>· ℾ En che pais
 <lb/>la nus ne puet dire cheſte eſt me fēme· ne chius chi eſt
 <lb/>mes maris¨ Et qn̈͞t elles enfantent elles le dounēt a cui
@@ -716,7 +716,7 @@
 <lb/>mi lieu dou monde · Et ce rpert p̲ vne lanche fi –
 <lb/>chie en terre ſour leure de midẏ al equinox q͛ ne fait poīt
 <lb/>de ombre a nul coſtet ·Et que che ſoit ou un lieu de le t̾re·
-<lb/><persName>Dauid</persName> le teſmōigne leur v on diſt· ℾ <foreign language="latin">Et op̲atus eſt ſa –
+<lb/><persName>Dauid</persName> le teſmōigne leur v on diſt· ℾ <foreign language="Latin">Et op̲atus eſt ſa –
 <lb/>lutem in medio terre</foreign>·ℾDont chil q̾ ſe p̲tent de ches p̲ –
 <lb/>ties p̃ aler vers <placeName type="city">ihrl̕m</placeName> autant de iournees cōme il met
 <lb/>tent pour monter iusq͡s la · en autant de iournees
@@ -742,7 +742,7 @@
 <lb/>vint vne fois vers <placeName type="region">norchuveie</placeName> · Que ilipriſt tempieſte ē
 <lb/>mer ⁊ fu portes en vne grant iſle ou il ſe recongnut que
 <lb/>cheſtoit liſle ou il auoit oit p̲ler ſon langaige a mener les
-<lb/>buefs a le karue ·Et ſe fu bien poſſible choſe ꝯbien q̄ il sā
+<lb/>buefs a le karue ·Et ſe fu bien poſſible choſe ꝯbien q̄ il ſā
 <lb/>ble as ſimples gens que on ne porroit aler deſous t̾re ·
 <lb/>Et q̄ on deueroit cheir deuiers le chiel deſous· Mais che
 <lb/>ne porroit ieſtre · nient plus que nous ne porrens cheir
@@ -753,7 +753,7 @@
 <lb/>ſont ſi grandes ⁊ ſi peſans · deueroient cheir iuſq͡s aufir
 <lb/>mament· ℾ Mais che ne porroit ieſtre · car che ne ſeroit
 <lb/>mie kairs mais monter · Et pour chou diſt nr͡es ſires ·
-<lb/>ℾ<hi rend="underline red"><foreign language="latin">Ne timeas me qui ſuſpendi terram in nichilo</foreign></hi> · ℾEt
+<lb/>ℾ<hi rend="underline red"><foreign language="Latin">Ne timeas me qui ſuſpendi terram in nichilo</foreign></hi> · ℾEt
 <lb/>combien que che ſeroit choſe poſſible q̄ on porroit auirou
 <lb/>ner tout le monde · nient mains ·de mille ·<num>I</num>· ne radre
 <lb/>cheroit mie ſi droit pour retourner vers ſon pais · Car
