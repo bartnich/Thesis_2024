@@ -81,20 +81,17 @@
 <lb/>citet de <placeName type="city">hur</placeName> p̲ le co̅mandeme̅t de dieu · ſen p̲ti <persName>abrahā</persName>·
 <lb/>apries le mort ſon pere· Et en mena ſarraẏ ſe fēme·
 <lb/>⁊ loth le fil ſen frere auoec lui pour chou que il nauoit
-<lb/>point denfant · Et la demoura en le t̾re de canaam·
-<lb/>en ·I· lieu quia anon ·ſichen· Et che fu chis loth q̍ fu ſau
-<lb/>ues qn̈t ſodome ⁊ gomore·⁊ les autres chites fure̅t arſe<sup>s</sup>
+    <lb/>point denfant · Et la demoura en le t̾re de <placeName type="region">canaam</placeName>·
+    <lb/>en ·<num>I</num>· lieu quia anon ·<placeName type="region">ſichen</placeName>· Et che fu chis <persName>loth</persName> q̍ fu ſau
+    <lb/>ues qn̈t <placeName type="city">ſodome</placeName> ⁊ <placeName type="city">gomore</placeName>·⁊ les autres chites fure̅t arſe<sup>s</sup>
 <lb/>⁊ fondues en abiſme lau ou <geogName type="body of water">li mers morte</geogName> eſt ſi co̅me
 <lb/><persPronouns value="P1">ie</persPronouns> <persPronouns value="P5 object">voꝯ</persPronouns> aẏ autre fois dit·ℾEn celle t̾re de <placeName type="region">caldee</placeName> il ont lor
     <lb/><sub>c</sub>ppre langaige·⁊ lor <sub>c</sub>ppres lettres telles q̍ chi ap̍es ſē ſieve̅t
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>                         <hi rend="dropcap2 red">P</hi>uis outre <placeName type="region">cal
+<lb/><figure><figDesc>foreign alphabet, six lines</figDesc></figure>
+<lb/><hi rend="dropcap2 red">P</hi>uis outre <placeName type="region">cal
 <lb/>				   	                              dee</placeName> eſt <placeName type="region">amazo
 <lb/>nie</placeName>·Ceſt li <placeName type="region">t̾re de femenie</placeName> . cheſt vns Roẏaumes ou
-<lb/>il na que fēmes nō pas ſi ꝯme aucun dient q̄ li hōme<sup>s</sup></pb>
+    <lb/>il na que fēmes nō pas ſi ꝯme aucun dient q̄ li hōme<sup>s</sup></pb>
 <pb n="f. 53r">
 <lb/>ne poroient viure en che pais la . Maiſ elles ne voelle͡t
 <lb/>mies q̄ li hōme aient le ſignourie de elles · Car ou tanp̄s
@@ -126,8 +123,8 @@
 <lb/>et preus ⁊ ſages ⁊ vaillans et vont ſouue̅t en ſaudees .
 <lb/>Et aidier les autres roẏs pour argent gaingnier ·et
 <lb/>ſe maintiēne͡t ml̕t viguereuſeme̅t ·ℾCelle terre de
-<lb/>    <placeName type="region">amazonie</placeName> ceſt vne ylle toute enuironnee de ẏawe·
-<lb/>    fors que en · <num>ij</num>· lieus ou il a ·<num>ij</num>· entrees· et en</pb>
+<lb/><damage type="tear, stitched" extent="two lines, no text"></damage><placeName type="region">amazonie</placeName> ceſt vne ylle toute enuironnee de ẏawe·
+<lb/>fors que en · <num>ij</num>· lieus ou il a ·<num>ij</num>· entrees· et en</pb>
 <pb n="f. 53v">
 <lb/>tre celle ẏauve demeurēt li hōme qui ſont leur amit ou
 <lb/>elles vont ſoulachier quant elles voellent ·
@@ -160,7 +157,7 @@
 <lb/>il deuiene̅t grant il ont tous les cheuiaus noirs.  En
 <lb/><placeName type="region">ethẏope</placeName> eſt li chites de <placename type="city">ſabba</placename> cheſt li t̾re dont li vns des 
 <lb/>·<num>iij</num>·Roẏs fu ſires qn̈͞t il vint requerir nr̅e ſigneur ·
-<lb/>en <placeName type="city">bethleem</placeName>·de <placeName type="region">ethẏope</placeName> on va en <placeName type="region">Judee</placeName> p̲ mlt̓ diu̾s</pb>
+<lb/>en <placeName type="city">bethleem</placeName>·de <placeName type="region">ethẏope</placeName> on va en <placeName type="region">Judee</placeName> p̲ mlt̓ diu̾s<damage type="tear, stitched" extent="one lines, no text"></damage></pb>
 <pb n="f. 54r">
 <lb/>pais·⁊ apiellon le haute <placeName type="region">Inde<del rend="erasure">e</del></placeName> le maiour q̾ eſt pais tres chaus
 <lb/>Et <placeName type="region">Inde</placeName> le menour q̾ eſt atempres pais · Et la tierche p̲tie
@@ -259,9 +256,7 @@
 <lb/><hi rend="dropcap5 red">I</hi>tem en <placeName type="region">Indee</placeName> ia mains diuers pais·⁊ mainte diu̾ſes
 <lb/>contrees · Et lapielons <placeName type="region">Indee</placeName> pour·<num>I</num>·flun qui keurt p̱mi
 <lb/>le pais qui a anon <handnote scribe="different"><geogName type="body of water">Inde</geogName></handnote> ~ Et celle flueue on trœue an̤
-<lb/>guilles de plus de·<num>xxx</num>· piēs de lonc· les gens q̾ habitent
-<lb/>
-<lb/></pb>
+<lb/>guilles de plus de·<num>xxx</num>· piēs de lonc· les gens q̾ habitent</pb>
 <pb n="f. 55v">
 <lb/>entours celle riuiere ſont tout de verde couleur ⁊ de Jaune·
 <lb/>enſi q̄ il euiſſent le gauniſſe· ℾEn <placeName type="region">Inde</placeName> ⁊ en viron <placeName type="region">Inde</placeName>
@@ -295,7 +290,6 @@
 <lb/>autreme͞t il ne porroient viure en che pais ⁊ en <placeName type="region">ethio
 <lb/>pe</placeName> ⁊ en autre pais mais les gens giſent tout nut eus
 <lb/>es riuages des iawes hōmes ⁊ fēmes tout enſamble</pb>
-
 <pb n="f. 56r">
 <lb/>de tierche de Jour Juſq͞s a baſſe n͞one· ⁊ giſent tout de dens
 <lb/>liewe fors que le fache pour le grant chaut que il fait ou
@@ -311,7 +305,7 @@
 <lb/>fier alui ſi trairoit le nef a lui pour le cauſe dou fier que
 <lb/>iamais ne ſe poroit dep̲tir·ℾ De celle iſle va on p̲ mer
 <lb/>en vne autre iſle quia anon <placeName type="region">chana</placeName> ou il a gn̈t plente
-<lb/>de bles ⁊ de vins· Et ẏſoloit auoir grande iſle ·⁊ ẏ auoit
+<lb/><damage type="tear, stitched" place="left margin"></damage>de bles ⁊ de vins· Et ẏſoloit auoir grande iſle ·⁊ ẏ auoit
 <lb/>ml̕t boin port · Mais li mers la maintenant forment
 <lb/>gaſtee ⁊ apeticie·ℾ Li roẏs de celle iſle ſoloit ieſtre ſi pois
 <lb/>ſans q̄ il guerroroit au Roẏ <persName>alixandre</persName>·Les gens de celle
@@ -328,7 +322,8 @@
 <lb/>ou dautre bieſte que nus hons ne vit ouques ſelonc
 <lb/>nature nediſpoſition · ℾEt ſachies q̄ chil que hōneu
 <lb/>rent ſẏmulacres les h͡oneure͞t p̃ aucun vaillant hōme
-<lb/>q̾ iadis fu ſi q̄ <persName>hercules</persName>·⁊ pluiſeurs autres faiſoient t̊p</pb>
+<lb/>q̾ iadis fu ſi q̄ <persName>hercules</persName>·⁊ pluiſeurs autres faiſoient t̊p
+    <damage type="tear, stitched" place="bottom center of page"></damage></pb>
 <pb n="f. 56v"> 
 <lb/>de meruelles en lor temps· Car il dient q̄ il ſeuent bien
 <lb/>que il ne ſont mie dieu· Car il eſt li dieus de nature q̾
@@ -344,7 +339,7 @@
 <lb/>raiſons ſi cȏme il dient que on louneure ⁊ fache reu̓ēche·
 <lb/>ℾEt en ſi dient il en lor raiſon des autres planetes ⁊ de
 <lb/>feu auſſi pour chou quil eſt pourfitables . Et des ẏdolles
-<lb/>il vient que li buef eſt li plus ſainte bieſte q̍ ſoit en t̾re
+<lb/>il vient que li buef eſt li plus ſainte bieſte q̍ ſoit en t̾re<damage type="tear, stitched" place="right margin"></damage>
     <lb/>⁊ plus <sub>c</sub>pfitable que neſt nulle autre· car il fait des biens
 <lb/>aſſes.⁊ ſi ne fait nul mal ·⁊ ſeue͞t bien que che ne puet
 <lb/>ieſtre ſans eſpecial graſce de dieu . Et pour chou font il
@@ -361,7 +356,8 @@
 <lb/>graſce de dieu·Et pour chou font il faire les ẏdoles ſam
 <lb/>blabes pour les regarder ⁊ a ourer p̄mieremȇt le matin
 <lb/>auant que il en contrent coze contraire·ℾIl ẏa bien des 
-<lb/><tag type="religious affiliation">creſtijens</tag> qui dient que aucunes bieſtes ont boin ēcontre.</pb>
+<lb/><tag type="religious affiliation">creſtijens</tag> qui dient que aucunes bieſtes ont boin ēcontre.
+    <damage type="tear, stitched" place="bottom center of page"></damage></pb>
 <pb n="f. 57r">
 <lb/>⁊ aucunes maluais en contre ſi ꝯme on diſt que on a eſ
 <lb/>puet maintes fois q̄ li lieures a maluais encontre·⁊.<num>I</num>·
@@ -497,7 +493,7 @@
 <pb n="f. 59r">
 <lb/>tẏrijes ⁊ enſeuelis · Mais li <tag type="nationality">aſſirijen</tag> fure͡t iadis portet
 <lb/>le corps de lui·en <placeName type="region">meſopotanie</placeName> en le chite de <placeName type="city">ediſſe</placeName>· et
-<lb/>puis fut il la ariere reportes · Et le brach ⁊ le main dont
+<lb/>puis fut il la ariere reportes · Et le brach ⁊ le main dont <damage type="tear, stitched" place="right margin"></damage>
 <lb/>il bouta ſes dois es plaies de nr̅e ſigneur qn̈͞t il ſa parut
 <lb/>alui apries ſe reſurrexion ⁊ li diſt ·ℾ<foreign language="Latin">Noli eſſe <del rend="erasure"> in  </del>cre
 <lb/>dulus ſed fidelis</foreign>· Et giſt en core audehors dou vaiſſial·
@@ -530,7 +526,7 @@
 <pb n="f. 59v">
 <lb/>Et eſpandent leur ſang pour lamour de celle ẏdolle
 <lb/>⁊ dient quil eſt boins eureus q̾ muert p̃ lamour de 
-<lb/>ſon dieu· Et des autres ẏa qui mainnēt leur enfans
+<lb/><damage type="tear, stitched" place="left margin"></damage>ſon dieu· Et des autres ẏa qui mainnēt leur enfans
 <lb/>pour ocirre · ⁊ pour ſacrefijer deuant ces ẏdolles·⁊ puis
 <lb/>eſp̲gent le<del rend="erasure" cert="75%">s</del> ẏdolle<del rend="erasure" cert="95%">s</del> dou ſang des enfans ·ℾEt des autres
 <lb/>ẏa que de<del rend="erasure" cert="90%">s</del> heure q̄ il ſe p̲tiront de lor maiſon a chaſcū
