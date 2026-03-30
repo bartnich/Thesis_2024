@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Le Livre des Merveilles</title>
+<respStmt>
+<resp>transcrit par</resp>
+<name>Nicholas Bartlett</name>
+</respStmt> 
+</titleStmt>
+<publicationStmt>
+<availability>
+<p>This is an open-access work licensed under a Creative Commons Attribution 4.0 International license.</p>
+</availability>
+<distributor></distributor>
+</publicationStmt>
+<sourceDesc>
+<bibl>Bruxelles, KBR 10437-40 (Br2)</bibl>
+</sourceDesc>
+</fileDesc>
+    <listWit>
+        <witness xml:id="Br2">Br2</witness>
+        <witness xml:id="Br4">Br4</witness>
+    </listWit>
+</teiHeader>
+<text>
+<body>
+<div>
+    <p n="1">
+        <app xml:id="P1">
+            <rdg wit="#Br2">
+<pb n="f. 95r" />
+    <lb/><hi rend="dropcap3 red">E</hi>t puis audepartir de celle Cittet de <placeName type="city">coronaa</placeName> en le<placeName type="region">tierre <persName>Job</persName></placeName>
+<lb/>v Il y̑a moult biel pay̑s ⁊ grant abondanche de tous biens ⁊ap
+<lb/>piellon le tie︢re <placeName type="region">ſiqueſſe</placeName> En celle tie︢re eſt li Citt de <placeName type="city">Camain</placeName> Job
+<lb/>fu paijens ⁊ fu fieulz aſſede<persName>gofra</persName> et tenoit celle tiere com͡e princez
+<lb/>dou pay̑s ⁊ eſtoit ſi Riches q͞·Il ne ſauoit le Centiſme p̲tie dechou
+<lb/>q͞· Il auoit - Et combien q͞· Il fuſt paijens Il ßuoit bien <persName>noſt ſeigu͞r͞ </persName>· 
+<lb/>et prendoit bien engret ſon ßuiche · Et qñt il key̑ em pouretet Il auoit
+<lb/>deage <num>lxxviij</num> · anz · Et ap͡s qñt <persName>noſt Sirez</persName> euſt veut ſa paſſien ſce quil
+<lb/>prendoit v͞n engret chou q̅ <persName>noſt Snf</persName> li faiſoit Il le Remiſt aſa poiſſa͞ce
+<lb/>et en ſa Riquece ⁊ en ſa hauteche de Reſief Et puiz Il fu Rois de <placeName type="region">y̑drenea</placeName>
+<lb/>apz͞ · le Roy̑ <persName>eham</persName> · Et qn̄t <persName>Job</persName> fu Roy͑s Il fu appiellez <persName>Joab</persName> ⁊ en ce Roy̑alme
+    <lb/>Il veſqu͡i <num>c· ⁊ lxx</num>· anz ⁊ euſſi auoit Il deage qñt Il morut ·<num>ij·<sup place="above previous">C</sup>⁊ xlviij</num>·
+<lb/>anz  Item en celle tiere <persName>Job</persName> na deffaubte de nulle coſe necceſſaire a
+<lb/>ho͞m͞e · Et la y̑|a montaignez leur on troeue gñt fuiſſon de manne pluz
+<lb/>aſſez ⁊ milleur q͞ on ne face ault˺p̲t manne eſt appiellee pain danglez
+<lb/>et eſt vne coſe blancque ⁊ moult douche ⁊ deliſcieuſſe ⁊eſt aſſez pluz (
+<lb/>douche de miel ne q͞· cucrez ⁊ vient de le Rouſſee don chieſ ⁊ chiet ſur
+<lb/>les hierbez de celuy̑ pay̑s ⁊ ſe Cange ⁊ de vient blanz ⁊ doulz ⁊ lemet
+<lb/>on ens ez medechin̑ez pour lez Riches ho͞m͞e͞z et põ Rafreſhir leur ventif
+<lb/>et põ eſpurgier mauuaiz ſanch Car Il cange le ſanch mauuaiz et oſte
+<lb/>merancolie · Item ceſte<placeName>tiȇre Job</placeName> marciſt au Roy̑aulme de <placeName type="region">Caldee</placeName> ⁊ eſt
+<lb/>moult granz ⁊ ceſt li langaig qui pluz eſt granz q͞· nulz aultz p̲deſa
+<lb/>le mer  On paſſe a aller p̲ le tour de <placeName type="region">babillonne</placeName> de quoy̑ <persPronouns value="P1">Je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> ay̑
+<lb/>ault foiz p̲let v li langaige fuit p͡mierement cangi͡et ⁊eſt a ·<num>iij</num>·
+<lb/>Journ͞ · de la <placeName type="region">caldee</placeName> Item on Roy̑aulme de <placeName type="region">Caldee</placeName> ſont li hom͡e m͞l͞t
+<lb/>biel ⁊ vont moult noblement paret de kueuresi͡ez dorez ⁊ leur drap
+<lb/>ſont aournet dorfrois ⁊ de pieiſ pſſieuſſez moult noblement fait ⁊lez
+<lb/>fem͞e͞s ſont treſlaidez ⁊ mal vieſtis ⁊ vont toutſ anulz piez ⁊ portent
+<lb/>vnz Caitilz garnemens larghe ⁊ court Juſques agenoulz ⁊ ſont lez
+<lb/>manches largſ en guiſſe dun froch de moiſne ⁊ vont lez mancez Juſqs
+<lb/>az piez pendanz tout entour lez eſpaullez ⁊ ſont les fem͞e͞z bien noirſ
+<lb/>non paz brunez ⁊ treſ laidez et treſ malgratieuſſez ⁊treſ hideuſſez a
+    <lb/>veoir ellez <persPronouns value="P1 object">me</persPronouns> deueroient donner bom vin põ ellez  ſi bin priſier Itſ 
+<pb n="f. 95v" />
+<lb/>Encore y̑a tant dordure en y̑celles q͞ · <persPronouns value="P1">Je</persPronouns> ne lo ſeroie dire maiz en che
+<lb/>Roy̑aulme de <placeName type="region">Caldee</placeName> eſt vne Citt qui a anon <placeName type="city">hur</placeName>  Et la demoroit <tag type="religious affiliation">tar
+<lb/>tairez</tag> li perez <persName>abreham</persName> le patriache ⁊ la naſqui <persName>abrehamz</persName> ·Et ce fu
+<lb/>on tamps q͞ · <persName><unclear reason="illegibility">niniue</unclear></persName> fu Roy̑s de <placeName type="region">babillonne</placeName> d<placeName type="region">arabble</placeName> ⁊ de<placeName type="region">egipte</placeName> Chuis
+<lb/><persName><unclear reason="illegibility">minue</unclear></persName> p̲ fiſt le Citt de <placeName type="region"><unclear reason="illegibility">numie</unclear></placeName> la quelle <del rend="strikethrough"><unclear reason="illegibility">niniue</unclear></del> noelz auoit cȏmencie
+<lb/>Et põ chou q͞ · chieus <persName><unclear reason="illegibility">minue</unclear></persName> le p̲fiſt Il lappiella p̲ ſon non <placeName type="city"><unclear reason="illegibility">nimie</unclear></placeName> · ⁊
+<lb/>lagiſt <persName>tobiez</persName> li prophett de qui ſainte eſtᵔpture p̲olle ·Item de celle
+<lb/>Citt de <placeName type="city">hur</placeName> p̲ le co︡mandement de dieu ſemp̲t <persName>abrehamz</persName> aps lemort
+<lb/>ſon pere ⁊ en mena <persName>ſarem</persName> ſe fem͞e ⁊<persName>loth</persName> lefil ſon frere avoecq luy põ
+<lb/>chou q͞ · Il nauoit nul enſff ⁊ la demora en le <placeName type="region">tie︢re de Cain</placeName> en·<num>I</num>·lieu
+<lb/>qui a anon <placeName type="region">ſichem</placeName> ⁊ che fu Chieus <persName>loth</persName> qui fu ſauuez qñt <placeName type="city">ſadom̑e</placeName> ⁊
+<lb/><placeName type="city">gomore</placeName> ⁊ lez ault︡z Citt<sup>ᴐ</sup> fuif arſſez ⁊ fonduez en abiſme· Item la 
+<lb/>v li <geogName type="body of water">mers morte</geogName> eſt ſi co͞m͞e <persPronouns value="P1">Je</persPronouns> <persPronouns value="P5 object">voꝯ</persPronouns> ay ault foiſ dit ⁊ en celle tȓe de
+<lb/><placeName type="region">Caldee</placeName> Il ont leur proppre langaige ⁊ leur propprez lett tellez q͞ ·
+<lb/>chi ſont eſƈptez ~
+<lb/>·a·b·c·d·e·f·g·h·i·k·l·m·n·o·p·q·r·ſ·t·v·x·
+            <lb/><figure><figDesc>foreign alphabet, 4 lines</figDesc></figure> 
+            
+       </rdg>     
+            
+            <rdg wit="#Br4">
+                <pb n="f. 41r"/>
+                <lb/><hi rend="dropcap2 red">E</hi>t puis au departir de celle terre de <placeName type="region">Cornaa</placeName> on entre en la <placeName type="region">terre
+                    <lb/>de <persName>Job</persName></placeName> Et y͠ a beau pais ⁊ grant abondance de tous biens Et
+                <lb/>appelle on la terre <placeName type="region">ſikeſe</placeName> / En celle terre eſt la citez de <placeName type="city">themam</placeName> / <persName>Job</persName>
+                <lb/>fu paians ⁊  fu filz are de <persName>goſra</persName> et tenoit celle terre c͡ome princes
+                <lb/>du pais / Et eſtoit ſi Riches que il ne ſauoit la centieſme partie de
+                <lb/>ce quil auoit / Et combien quil feuſt paians il ſeruoit bien <persName>nr͡eß</persName>
+                <lb/>ſelon ſa loy͠  Et <persName>nr͡eß</persName> prenoit bien en gre ſon ſeruice Et quant il
+                <lb/>chey en pourete il auoit daage ·<num>lxxviij</num>· ans· Et apres quant <persName>nr͡eß</persName>
+                <lb/>ot veu ſa pacience qui eſtoit ſi grande Il le remiſt a ſa Richeſſe
+                <lb/>⁊ a ſa haulteſſe de rechief Et fu puis Roy͠s de <placeName type="region">ydumea</placeName> apres
+                <lb/>le Roy <persName>eſau</persName>. Et quant <persName>Job</persName> fu Rois Il fu appellez <persName>Jobab</persName> / En ce Roiaume
+                <pb n="f. 41v"/>
+                <lb/>il veſqui·<num>clxx</num>·ans / ainſi auoit il quant il morut·<num>ij<sup>C</sup>·lxviij</num> ans
+                <lb/>En celle <placeName type="region">terre <persName>Job</persName></placeName> na mille deſfaute de choſe qui ſoit necceſſaire
+                <lb/>ahōme la y͠ a montaingnes ou on ne treuue grant foiſon de māne
+                <lb/>plus aſſez ⁊ meilleur que on ne fait autre part / manne eſt
+                <lb/>appellee pain dange / Et eſt vne choſe blanche moult doulce ⁊
+                <lb/>moult delicieuſe Et eſt aſſez plus doulce que miel ne que ſucre
+                <lb/>Et vient de la roſee du ciel/ Et chiet ſur les herbes de ce pais/ ⁊
+                <lb/>ſe coagule ⁊ deuient blans ⁊ doulz / On la met en medecins /
+                <lb/>pour les Riches hōmes pour lachier le ventre ⁊ pour eſpur
+                <lb/>gier mauuais ſanc ⁊ oſte meloncolie · Ceſte <placeName type="region">terre <persName>Job</persName></placeName> marchiſt
+                <lb/>au Roiaume de <placeName type="region">caldee</placeName> · li Roiaumes de <placeName type="region">caldee</placeName> eſt moult grans
+                <lb/>Et ceſt li langaiges qui plus eſt grans pardela lamer que nul
+                <lb/>autre · On paſſe a aler la par la tour de <placeName type="region">babilone</placeName>/ ceſt la grande
+                <lb/><placeName type="region">babilone</placeName> de quoy͠ <persPronouns value="P1">Je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> ay autreſfoiz parle / ou li langaige fure͡t
+                <lb/>trouue ⁊ changie premierement Et eſt <num>iiij</num>· Journees deca <placeName type="region">caldee</placeName>
+                <lb/>Ou Roiaume de <placeName type="region">caldee</placeName> ſont li h͞ome bel ⁊ vont moult noblement
+                <lb/>parez de cueurechiefs dorez Et leur ſont aournez de orfrois ⁊ de
+                <lb/>perles ⁊ de pierres precieuſes moult noblement Et les fēmes
+                <lb/>ſont tres laides ⁊ mal veſtues ⁊ vont toutes nues piez ⁊ porte͡t
+                <lb/>vn chaitifs garnemens larges ⁊ cours Juſques aux genoux
+                <lb/>Et ſont les manches longues ⁊ larges en guiſe dun froc de
+                <lb/>moine / ⁊ vont les manches longues ⁊ larges Juſques aux piez
+                <lb/>pendans Et ont les cheueux noirs pendans tout entour leurs
+                <lb/>eſpaulles / ⁊ ſont fēmes treſnoires non pas brunes ⁊ treſlaides
+                <lb/>⁊ mal gracieuſes aveoir / Elles me devroient donner bon don
+                <lb/>pour elles ſi bien priſier / Car encore y’a tant dordure en elles
+                <lb/>que <persPronouns value="P1">Je</persPronouns> ne loſeroie deſcrire / Mais ſmablement elles ſont treſlaids
+                <lb/>mais en ce Roiaume de <placeName type="region">caldee</placeName> eſt vne cite qui a nom <placeName type="city">hur</placeName> la
+                <lb/>demourroit <persName>thare</persName> li peres / <persName>abraham</persName> le patriarche ⁊ la naſqui
+                <lb/><persName>abraham</persName> / Et ce fu en ce temps que <persName>minus</persName> fu Rois de <placeName type="region">babilone</placeName>
+                <lb/>de <placeName type="region">arrabe</placeName> ⁊ de <placeName type="region">egipte</placeName>/ Cilz minus fiſt la cite de <placeName type="city">ninie</placeName>/ la quelle
+                <lb/><persName>noe</persName> auoit c͞omancee afaire / Et pour ce que cilz <persName>ninius</persName> lauoit
+                <lb/>parfaicte / il lappella de ſon nom <placeName type="city">niniue</placeName> / la giſt <persName>thobies</persName> li
+                <lb/>prophettes de qui ſainte eſcripture parle / De celle cite de <placeName type="city">hur</placeName>
+                <pb n="f. 42r"/>
+                <lb/>par le c͡omanderment de dieu ſe parti <persName>abraham</persName> apres la mort ſon
+                <lb/>pere ⁊ enmena <persName>ſarray͠</persName> ſa fēme ⁊ loth le filz ſon pere auec li
+                <lb/>pour ce que il nauoit point denfant / Et la demoura en la tȓe
+                <lb/>de <placeName type="region">canaam</placeName> / en vn lieu qui a mon <placeName type="region">ſichen</placeName> Et ce fu cilz <persName>loth</persName> qui
+                <lb/>fu ſauuez quant <placeName type="region">ſodome</placeName> ⁊ <placeName type="region">gomore</placeName> ⁊ les autres citez furent
+                <lb/>arſes ⁊ fondues en abiſme / la ou <geogName type="body of water">la mer morte</geogName> eſt / Sicȏme
+                <lb/><persPronouns value="P1">Je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> ay autreſfois dit / En celle terre de <placeName type="region">caldee</placeName> Ilz on leur
+                <lb/>propre langaige / ⁊ leurs propres lettres/ telles c͡ome elle ſont cy
+                <lb/><space extent="nine lines"></space>       
+            
+            </rdg>
+        </app>
+    </p>
+
+</div>
+</body>
+</text>
+</TEI>   
+        
