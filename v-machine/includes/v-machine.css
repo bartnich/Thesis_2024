@@ -254,9 +254,17 @@ div.code {
 	line-height: 1.5em;
 }
 .label {
-	font-family: verdana, 'bitstream vera sans', arial, helvetica, sans-serif;
+	font-family:  "Junicode", "Charis SIL", "Gentium Plus", "Noto Serif", serif;
 	font-weight: 800;
 }
 .clear {
 	clear: both;
+}
+span {
+  unicode-bidi: isolate;
+}
+
+body {
+  font-variant-ligatures: normal;
+  text-rendering: optimizeLegibility;
 }
